@@ -1,3 +1,3 @@
-def count_words(str)
+def count_word(str)
   str.split(" ").length
 end
